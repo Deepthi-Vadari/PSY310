@@ -1,0 +1,40 @@
+﻿study_word,test,textbox.text,mouse.x,P/NP,Y/N
+case,,,,,
+board,,,,,
+chart,,,,,
+poster,,,,,
+pastry,,,,,
+laptop,,,,,
+t-shirt,,,,,
+marble,,,,,
+police,,,,,
+mouse,,,,,
+keys,,,,,
+book,,,,,
+phone,,,,,
+cushion,,,,,
+cruise,,,,,
+,k_y_,keys,0.039814815,P,Y
+,p_li_e,police,0.022222222,P,Y
+,c_s_,case,-0.030555556,NP,Y
+,v_s_,vase,0.015740741,P,Y
+,l_pt_p,laptop,-0.059259259,P,Y
+,t_hi_t,t-shirt,0.074074074,P,Y
+,p_st_r,poster,-0.057407407,P,Y
+,_a_bl_,marble,-0.078703704,NP,Y
+,bo_t_e,bottle,-0.090740741,NP,Y
+,ta_l_,,-0.090740741,NP,N
+,_ho_e,table,-0.091666667,P,N
+,_oo_,book,-0.008333333,P,Y
+,_o_rd,chor,0,P,N
+,p_s_tr_,pastry,-0.098148148,P,Y
+,_ru_s_,crusher,0,P,N
+,p_nc_l,,-0.112037037,P,N
+,c_s_io_,cushion,-0.055555556,P,Y
+,_ou_e,mouse,-0.021296296,P,Y
+,c_m_ra,camera,-0.149074074,P,Y
+,_ha_t,chant,0.062962963,P,N
+,,,,,
+,,,prop of hit  from study list,0.6875,
+,,,prop of hit from non-primed words,0.75,
+,,,prime score,-0.0625,

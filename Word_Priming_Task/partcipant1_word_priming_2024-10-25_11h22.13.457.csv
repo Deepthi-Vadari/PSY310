@@ -1,0 +1,41 @@
+﻿study_word,test,mouse.x,P/NP,yes/no
+board,,,,
+marble,,,,
+laptop,,,,
+cushion,,,,
+book,,,,
+chart,,,,
+case,,,,
+phone,,,,
+mouse,,,,
+poster,,,,
+t-shirt,,,,
+pastry,,,,
+keys,,,,
+cruise,,,,
+police,,,,
+,l_pt_p,0.02962963,P,Y
+,c_m_ra,0.031481481,NP,Y
+,p_st_r,0.052777778,P,Y
+,t_hi_t,0.049074074,P,Y
+,p_li_e,0.047222222,P,Y
+,_o_rd,-0.011111111,NP,Y
+,p_nc_l,-0.027777778,NP,N
+,_oo_,0.011111111,P,Y
+,c_s_io_,-0.008333333,P,N
+,_ho_e,0,NP,Y
+,k_y_,-0.024074074,P,N
+,_ru_s_,0.002777778,P,Y
+,_a_bl_,-0.039814815,P,N
+,bo_t_e,0.109259259,P,Y
+,_ou_e,0.031481481,P,Y
+,ta_l_,0.031481481,NP,Y
+,c_s_,0.051851852,P,Y
+,p_s_tr_,0.012037037,P,Y
+,_ha_t,0.058333333,P,Y
+,v_s_,0.038888889,NP,Y
+,,,,
+,,,,
+,,prop of hit  from study list,0.8,
+,,prop of hit from non-primed words,0.8,
+,,prime score,0,
